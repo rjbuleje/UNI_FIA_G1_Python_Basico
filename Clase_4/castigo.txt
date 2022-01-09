@@ -1,0 +1,5 @@
+primer castigo: no grabación de la clase
+segundo castigo: tarea para ingresar a la siguiente
+tercer castigo: un programa que me permite calcular la determinante de una matriz de 2x2
+cuarto castigo: un programa que permita calcular la determiante de una matriz de 3x3
+rbulejedel@uni.pe hasta 7:00 pm.
